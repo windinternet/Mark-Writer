@@ -1,0 +1,2 @@
+## Mark-Writer
+它是一款Windows下的MarkDown阅读和编辑器，打造一款Windows的拥有良好阅读和创作体验的MarkDown编辑器。由于作者本身水平的原因暂时先考虑使用IE内核完成，之后再转成CEF或Node-Webkit。
